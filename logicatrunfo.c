@@ -93,8 +93,5 @@ if (pontoturistico > pontoturistico1){
         printf("Carta 1A02 tem mais pontos turisticos\n");        
 }
 
-
-
-
  return 0;   
 }
